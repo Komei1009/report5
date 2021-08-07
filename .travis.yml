@@ -1,0 +1,4 @@
+language: bash
+script:
+  - echo Travis CI test in .travis.yml
+  - ./report5_test.sh
